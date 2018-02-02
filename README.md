@@ -1,10 +1,12 @@
 # Dobby
 
->Dobby is loyal and he has good friends. He does whatever you tell him. He has owls to update you on his experiences and thoughts. He is smart and you are the master
+>Dobby has no master but he is loyal. He does whatever you tell him. He has owls to update you on his experiences and thoughts.
 
-Developers
 
+Team
  - Paulson Vincent 
  - Kedarnath Reddy
- - More coming soon...
+ - Kusuma NR
+ - Abhishek Kumar
+
  
